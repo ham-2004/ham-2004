@@ -34,7 +34,7 @@ Especially interested in:
 
 ### 📫 Reach Me
 **Email:** hamdialanazy@gmail.com  
-**LinkedIn:** hamdialanazy  
+**LinkedIn:** [hamdialanazy](https://www.linkedin.com/in/hamdialanazy/)  
 **GitHub:** ham-2004  
 
 ---
