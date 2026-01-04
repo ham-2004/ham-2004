@@ -47,7 +47,7 @@ Especially interested in:
 ---
 
 ### 📊 GitHub Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ham-2004&theme=default" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ham-2004&" alt="ham-2004" /></p>
 
 ---
 
